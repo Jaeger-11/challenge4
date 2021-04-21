@@ -78,7 +78,7 @@ h3, h4{
     color: hsl(0, 0%, 59%);
 }
 
-@media (max-width: 600px){
+@media screen and (max-width: 600px){
     body{
         background-position: top -100vh left -80vh, bottom -100vh right -80vh;
         margin: 20px;
